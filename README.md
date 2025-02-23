@@ -1,4 +1,4 @@
-### **LipMimic.AI – The Futuristic Lip-Reading Web App** 🚀🔮  
+# **LipMimic.AI – The Futuristic Lip-Reading Web App** 🚀🔮  
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/99d489ea-8b65-4820-a576-a7912b95ee39" />
 
