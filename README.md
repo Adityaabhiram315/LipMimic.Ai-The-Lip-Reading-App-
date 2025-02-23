@@ -1,7 +1,6 @@
 ### **LipMimic.AI – The Futuristic Lip-Reading Web App** 🚀🔮  
 
-<img width="1440" alt="Screenshot 2025-02-23 at 11 45 32 AM" src="https://github.com/user-attachments/assets/857c9d04-872a-44ee-8cd0-2fbf40147bdc" />
-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/99d489ea-8b65-4820-a576-a7912b95ee39" />
 
 
 **LipMimic.AI** is an AI-powered web application that reads lip movements in real-time using a webcam, converts them into text using advanced NLP models, and allows users to save their transcriptions. Designed with a **cyberpunk-inspired UI**, this project blends cutting-edge AI with stunning visuals for a futuristic experience.  
