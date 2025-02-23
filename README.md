@@ -45,7 +45,7 @@ pip install flask opencv-python mediapipe numpy
 
 ### **📂 Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/LipMimic-AI.git
+git clone https://github.com/Adityaabhiram315/LipMimic-AI.git
 cd LipMimic-AI
 ```
 
